@@ -1,2 +1,2 @@
-# Jordanresume
-My website resume
+# Jordan's Resume
+My Website Resume. Using github for furture projects :)
